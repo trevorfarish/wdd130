@@ -1,0 +1,11 @@
+big-title h1 {
+    color: rgb(29, 20, 88);
+    background-color: blueviolet;
+    font-size: large;
+}
+main h1 {
+    color:aqua;
+}
+footer {
+    color:green
+}
