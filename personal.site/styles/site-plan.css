@@ -11,7 +11,7 @@ Fonts are separated by a | */
   /* TODO: Week07 - change the values below to your colors from your palette */
   --primary-color: navy;
   --secondary-color: #ffc517;
-  --accent1-color: white;
+  --accent1-color: rgb(0, 174, 255);
   --accent2-color: white;
   
 
@@ -29,7 +29,7 @@ Fonts are separated by a | */
   --nav-link-color: navy;
   --nav-background-color: #ffc517;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: navy;
+  --nav-hover-background-color: rgb(0, 174, 255);
   /* TODO: Week07 - test out your colors using by viewing your html and interacting with it.
    * - Make sure the contrast is enough that things can be easily read (i.e. https://coolors.co/contrast-checker/)
    */
