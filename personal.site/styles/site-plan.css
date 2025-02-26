@@ -17,7 +17,7 @@ Fonts are separated by a | */
 
   /* TODO: Week07 - change the values below to your chosen font(s). */
   /* TODO: Week07 - make sure you provide more than one font option for each to handle fallback */
-  --heading-font: "Charm";
+  --heading-font: "Charm", Helvetica, sans-serif;
   --paragraph-font: "Atkinson Hyperlegible Next", Helvetica, sans-serif;
 
   /* TODO: Week07 - these colors below should be chosen from among your palette colors above */
