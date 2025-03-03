@@ -4,6 +4,10 @@
   max-width: 1600px;
   margin: 0 auto;
 }
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
 nav{
   display: flex;
     justify-content: space-around;
@@ -183,7 +187,6 @@ footer .social-img {
 }
 .rivers-card {
   margin:  200px 0;
-  display: grid;
   grid-column: 2/4;
   grid-row: 2/3;
 }
