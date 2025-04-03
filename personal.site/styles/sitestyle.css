@@ -47,6 +47,19 @@ main.basics {
     background-color: azure; 
     padding: 10px;
 }
+main div {
+  padding: 50px;
+}
+main img {
+  margin: auto;
+}
+main.fundamentals {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  background-color: azure; 
+  padding: 10px;
+}
 .homeintro{
     grid-row: 1/2;
     grid-column: 1/2;
@@ -128,4 +141,18 @@ footer {
   .rotationtitle {
     grid-column: 2/5;
     grid-row: 1/2;
+  }
+  h2 {
+    font-family: "Charm",Arial, Helvetica, sans-serif;
+  }
+  h1 {
+    font-family: "Charm",Arial, Helvetica, sans-serif;;
+  }
+  .recievingimg {
+    grid-column: 1/2;
+    grid-row: 1/2;
+  }
+  .settingimg {
+    grid-column: 1/2;
+    grid-row: 2/3;
   }
